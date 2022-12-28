@@ -14,11 +14,11 @@ Dark theme for Notepad++
 2. Run **`Notepad++`** as an administrator
 3. Open `Setting -> Import -> Import style theme(s)...`
 4. Choose **`inferno.xml`**
-5. Click `Save & Close`
+5. Click `[Save & Close]`
 6. Restart **`Notepad++`**
 
 ## III. Troubleshooting
 1. If the theme does not import, copy the `inferno.xml` file to (Windows) `%APPDATA%\Notepad++\themes` and restart `Notepad++`
 2. Open `Setting -> Style Configurator -> Select theme` and select `inferno` from the list
-3. Click `Save & Close`
+3. Click `[Save & Close]`
 4. Restart **`Notepad++`**
