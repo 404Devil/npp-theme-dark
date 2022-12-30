@@ -1,24 +1,30 @@
 # Npp Inferno dark theme
-Dark theme for Notepad++
+Dark theme Inferno, high contrast, for Notepad++
 
 ![Inferno dark theme](https://raw.githubusercontent.com/404Devil/inferno/master/inferno.png)
-> High contrast dark theme **`Inferno`** for **`Notepad++`**
+> `Inferno` dark theme with high contrast for `Notepad++`
 
-## I. Font Installation:
-1. Download [**`SFMono-Regular.otf`**](https://github.com/supercomputra/SF-Mono-Font/raw/master/SFMono-Regular.otf)
-2. Open **`SFMono-Regular.otf`** with double click
-3. Click the `[Install]` button
+## I. Theme download
+- Download the file [`npp-dark-theme-main.zip`](https://github.com/404Devil/npp-dark-theme/archive/refs/heads/main.zip)
+- Unzip somewhere
 
-## II. Theme Installation:
-1. Download [**`inferno.xml`**](https://raw.githubusercontent.com/404Devil/inferno/master/inferno.xml)
-2. Run **`Notepad++`** as an administrator
-3. Open `Setting -> Import -> Import style theme(s)...`
-4. Choose **`inferno.xml`**
-5. Click `[Save & Close]`
-6. Restart **`Notepad++`**
+## II. Font Installation:
+- Open the file `SFMono-Regular.otf` from the unzipped archive with double click
+- Click the `[Install]` button
 
-## III. Troubleshooting
-1. If the theme does not import, copy the `inferno.xml` file to (Windows) `%APPDATA%\Notepad++\themes` and restart `Notepad++`
-2. Open `Setting -> Style Configurator -> Select theme` and select `inferno` from the list
-3. Click `[Save & Close]`
-4. Restart **`Notepad++`**
+## III. Theme Installation:
+- Run `Notepad++` as administrator
+- Open the menu `Setting -> Import -> Import style theme(s)...`
+- Browse to the folder, where the theme is unzipped and select the file `inferno.xml`
+- Open the menu `Setting -> Style Configurator -> Select theme` and select `inferno` from the list
+- Click `[Save & Close]`
+- Restart `Notepad++`
+
+## IV. Troubleshooting
+- If the .xml file doesn't import, copy the `inferno.xml` file to `(Windows)%APPDATA%\Notepad++\themes` and restart `Notepad++`
+- Open the menu `Setting -> Style Configurator -> Select theme` and select `inferno` from the list
+- Click `[Save & Close]`
+- Restart `Notepad++`
+
+## V. Credits
+- [`Putra supercomputra`](https://github.com/supercomputra/) for the badass SF Mono Font
