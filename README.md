@@ -14,15 +14,15 @@ Dark theme Inferno, high contrast, for Notepad++
 
 ## III. Theme Installation:
 - Run `Notepad++` as administrator
-- Open the menu `Setting -> Import -> Import style theme(s)...`
+- Open the menu `Settings -> Import -> Import style theme(s)...`
 - Browse to the folder, where the theme is unzipped and select the file `inferno.xml`
-- Open the menu `Setting -> Style Configurator -> Select theme` and select `inferno` from the list
+- Open the menu `Settings -> Style Configurator -> Select theme` and select `inferno` from the list
 - Click `[Save & Close]`
 - Restart `Notepad++`
 
 ## IV. Troubleshooting
 - If the .xml file doesn't import, copy the `inferno.xml` file to `(Windows)%APPDATA%\Notepad++\themes` and restart `Notepad++`
-- Open the menu `Setting -> Style Configurator -> Select theme` and select `inferno` from the list
+- Open the menu `Settings -> Style Configurator -> Select theme` and select `inferno` from the list
 - Click `[Save & Close]`
 - Restart `Notepad++`
 
