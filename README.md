@@ -5,7 +5,7 @@ Dark theme Inferno, high contrast, for Notepad++
 > `Inferno` dark theme with high contrast for `Notepad++`
 
 ## I. Theme download
-- Download the file [`npp-theme-dark-main.zip`](https://github.com/404Devil/npp-theme-dark/archive/refs/heads/master.zip)
+- Download the file [`npp-theme-dark-mster.zip`](https://github.com/404Devil/npp-theme-dark/archive/refs/heads/master.zip)
 - Unzip somewhere
 
 ## II. Font Installation:
